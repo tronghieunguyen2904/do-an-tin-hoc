@@ -1,0 +1,63 @@
+E:\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+E:\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+E:\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csprojAssemblyReference.cache
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Form1.resources
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyLoaiSach.resources
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNgonNgu.resources
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNhaXuatBan.resources
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyTacGia.resources
+E:\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLySach.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Form1.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyLoaiSach.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNgonNgu.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNhaXuatBan.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLySach.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyTacGia.resources
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+C:\Users\admin\Downloads\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.AssemblyReference.cache
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.SuggestedBindingRedirects.cache
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Form1.resources
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyLoaiSach.resources
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNgonNgu.resources
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNhaXuatBan.resources
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLySach.resources
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyTacGia.resources
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+D:\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.AssemblyReference.cache
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.SuggestedBindingRedirects.cache
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Form1.resources
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyLoaiSach.resources
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNgonNgu.resources
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyNhaXuatBan.resources
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLySach.resources
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QuanLyTacGia.resources
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+D:\Học tập - STU\Đồ Án Tin Học\Code\DoAnTH-3tier\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
